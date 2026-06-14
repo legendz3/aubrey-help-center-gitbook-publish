@@ -1,12 +1,16 @@
 # Billing and account settings
 
-Open **Settings** to manage your account, billing, and optional quality data preferences.
+Open **Settings** to manage your account, billing, account protection, and optional quality data preferences.
 
 ## Account
 
 Use **Account** to update your sign-in email or change your password.
 
 If Aubrey needs email verification after an account change, it sends you to the email verification screen.
+
+Use **Manage account protection** if you want stronger sign-in protection. You can add device unlock with Face ID, Touch ID, or your device PIN, or set up an authenticator app instead.
+
+If Aubrey asks you to sign out before using device unlock, sign out and then use **Use device unlock** from the login page.
 
 ## Billing
 
